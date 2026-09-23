@@ -1,0 +1,8 @@
+SPACEMIT K3
+M:	Yixun Lan <dlan@kernel.org>
+S:	Maintained
+F:	arch/riscv/cpu/k3/
+F:	board/spacemit/k3/
+F:	configs/spacemit_k3_defconfig
+F:	include/configs/k3.h
+F:	arch/riscv/dts/k3-u-boot.dtsi
