@@ -23,7 +23,7 @@
 
 	memory@100000000 {
 		device_type = "memory";
-		reg = <0x1 0x00000000 0x4 0x00000000>;
+		reg = <0x1 0x02000000 0x3 0xFE000000>;
 	};
 
 	reg_aux_vcc3v3: regulator-aux-vcc3v3 {
